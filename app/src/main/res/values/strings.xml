@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ladys problem</string>
+    <string name="app_name1">Comencemos</string>
+    <string name="b1">Calculador de brasier</string>
+    <string name="b2">¿Como medirte?</string>
+    <string name="b3">Acerca de...</string>
+    <string name="b4">CALCULAR</string>
+    <string name="ta1">Ingrese su contorno</string>
+    <string name="ea1">(Centimetros)</string>
+    <string name="ta2">Ingrese su copa</string>
+    <string name="b5">Contorno</string>
+    <string name="b6">Copa</string>
+
+
+
+</resources>
